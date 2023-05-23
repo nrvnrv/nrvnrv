@@ -1,3 +1,4 @@
+
 <h1 align="center" style="text-align: center;">👋 Hi, I&rsquo;m <a href="https://github.com/nrvnrv/" target="_blank">@nrvnrv</a></h1>
 <h3 align="center" style="text-align: center;">backend/ML dev</h3>
 <!-- <table align="center" style="width: 100%; height: 18px;">
@@ -42,7 +43,8 @@
 <h3 align="left" style="text-align: center;"><b><i>&#8226;ML</i></b></h4>
 <p align="left" style="white-space: pre-wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/d441b09246a1e2c7ef0eaf05f1523d5250885a27b5b23324e1196d78aa30f056/68747470733a2f2f6b657261732e696f2f696d672f6c6f676f2e706e67" title="Keras" alt="Keras" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="torch" alt="torch" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/d441b09246a1e2c7ef0eaf05f1523d5250885a27b5b23324e1196d78aa30f056/68747470733a2f2f6b657261732e696f2f696d672f6c6f676f2e706e67" title="Keras" alt="Keras" width="120" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="opencv" width="40" height="40"/>&nbsp;
 </p>
 
@@ -52,6 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="symfony" alt="symfony" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </p>
 
@@ -59,6 +62,7 @@
 <p align="left" style="white-space: pre-wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" title="clickhouse" alt="clickhouse" width="40" height="40"/>&nbsp;
 </p>
 
 <h3 align="left" style="text-align: center;"><b><i>&#8226;GIT</i></b></h4>
@@ -75,7 +79,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left" style="text-align: center;"><b><i>&#8226;DEV TOOLS</i></b></h4>
+<h3 align="left" style="text-align: center;"><b><i>&#8226;FAV DEV TOOLS</i></b></h4>
 <p align="left" style="white-space: pre-wrap;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
@@ -83,6 +87,13 @@
 </p>
 
 
+<h3 align="left" style="text-align: center;"><b><i>&#8226;PLANS</i></b></h4>
+<p align="left" style="white-space: pre-wrap;">
+  <img src="https://nats.io/img/logos/nats-icon-white.png" title="nats" alt="nats" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+</p>
 
 
 <!-- <p align="center">
